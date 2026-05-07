@@ -252,7 +252,7 @@ Even though my parameter-count claim in §2.1 was wrong, the Nate-vs-Tyler error
 > - Gurarslan CCD 2021
 > - Zhang 2016
 >
-> Finally, I would also like you to search for additional relevant literature on the internet and provide it for our reference (but you do not have to read or analyze these additional references in-depth).
+> There are also references to some Mathematica notebooks in previous drafts. On this system, they are in the directory `C:\Users\natha\Documents\School\Research\Hirschmann\HirschmannGroupBYU\Notes\MathematicaNotebooks`, and the relevant notebooks in here are `CFD Interior Optimization.nb`, `CFD Boundary Optimization.nb`, and `CFD Eigenvalue Stability.nb`. Finally, I would also like you to search for additional relevant literature on the internet and provide it for our reference (but you do not have to read or analyze these additional references in-depth).
 
 ### E2. What is the success criterion for v1.2?
 
