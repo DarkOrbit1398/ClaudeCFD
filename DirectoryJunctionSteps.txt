@@ -1,0 +1,3 @@
+Command to make directory junction
+
+mklink /J "C:\Users\natha\Documents\School\Research\Hirschmann\ClaudeCFD\Memory-Copy" "C:\Users\natha\.claude\projects\c--Users-natha-Documents-School-Research-Hirschmann-ClaudeCFD\memory"
